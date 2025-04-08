@@ -22,7 +22,7 @@ config: {
       height: '5.11',
       choise: 'Russian 😞',
       nick: 'Jamai Dak mgi',
-      religion:islam
+      religion:'Islam'
     };
 
     const bold = 'https://i.imgur.com/vzmxTtt.mp4'; // Replace with your Google Drive videoid link https://drive.google.com/uc?export=download&id=here put your video id
